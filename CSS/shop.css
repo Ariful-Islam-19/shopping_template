@@ -1,0 +1,49 @@
+
+
+
+/* Our Featured */
+
+.featured_up{
+    position: relative;
+    top: 65px;
+}
+
+.shop_padding{
+    padding: 0px 150px 0px 150px;
+}
+
+.featured_inner{
+    margin-bottom: 70px;
+}
+
+
+/* Price Range */
+.add_post{
+    margin-top: 100px;
+}
+.add_post_row{
+    box-shadow: 0px 0px 60px 0px #e9e9e9;
+}
+.add_post_row h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Impact", Times, serif;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.special_btn{
+    margin:13px 46px 21px 192px !important;
+}
+
+
+/* Pagination */
+
+.pagi{}
+.pagi ul{}
+.pagi ul li{
+    margin: auto;
+}
+.pagi ul li a{
+    color: orange !important;
+    padding: 7px 10px;
+}

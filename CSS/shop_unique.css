@@ -1,0 +1,264 @@
+
+
+.Publicity{}
+.Publicity_row{}
+.Publicity_row_inn{
+    padding: 15px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 60px 0px #e9e9e9;
+}
+.Publicity_row_inn img{
+    box-shadow: none;
+}
+.xzoom{}
+.xzoom-thumbs{}
+.xzoom-thumbs a{}
+.xzoom-thumbs a img{
+    width: 100%;
+}
+
+
+/*  Description Section */
+
+
+
+.recent{}
+.recent form{
+    margin-top: 15px;
+}
+.recent form input{
+    padding: 25px 20px;
+}
+.recent form button{
+    background: red;
+    padding: 12px 12px;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+.recent form button:hover{
+    background-color: black;
+}
+.recent form button span{
+    color: white;
+}
+.recent h3{
+    margin-top: 20px;
+    font-weight: 600;
+    font-family: "Constantia", Times, serif;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.recent h5{
+    font-size: 20px;
+    font-family: "Constantia", Times, serif;
+}
+.recent strong{
+    color: orange;
+    font-size: 30px;
+}
+.recent p{
+    font-family: "Constantia", Times, serif;
+    font-size: 18px;
+}
+.recent ul{
+    list-style: none;
+}
+.recent ul li{
+    padding-bottom: 20px;
+}
+.recent ul li a{
+    color: black;
+    font-family: "Constantia", Times, serif;
+}
+.recent ul li a:hover{
+    color: red;
+}
+.shop-btn{
+    margin: 1px 95px;
+    
+   
+}
+.shop-btn a{}
+
+
+.blood_table{
+    box-shadow: 0px 0px 60px 0px #e9e9e9;
+    margin-bottom: 70px;
+}
+.blood_table_inner{
+    padding: 50px 20px;
+}
+.blood_table_inner_in thead{
+    background: red;
+}
+.blood_table_inner_in thead th{
+    color: #fff;
+    font-family: "Verdana", Times, serif;
+}
+.blood_table_inner_in tbody{}
+.blood_table_inner_in tbody tr{
+    background: floralwhite;
+}
+.blood_table_inner_in tbody tr td{
+    color: darkred;
+    font-family: "Comic Sans MS", Times, serif;
+}
+
+
+/* Customer Riview Section */
+
+
+.user_comment{
+    box-shadow: 0px 0px 60px 0px #f3f3f3;
+    padding: 30px 45px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.user_comment h2{
+    text-align: center;
+    font-family: "Constantia", Times, serif;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.user_comment form{}
+.user_comment_name input{
+    padding: 25px 25px;
+}
+.user_comment_email{}
+.user_comment_email input{
+    padding: 25px 25px;
+}
+.user_comment_msg{}
+.user_comment_button button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: red;
+    transition: 0.4s;
+}
+.user_comment_button button:hover{
+    background-color: black;
+}
+.user_comment_button button span{
+    font-weight: 600;
+    color: white;
+}
+
+/* Show Comment Section */
+.Publicity_inner {
+    margin-bottom: 100px !important;
+}
+.comment_show{
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 60px 0px #f3f3f3;
+    position: relative;
+    padding: 20px;
+}
+.comment_show h3{
+    font-family: "Constantia", Times, serif;
+    font-weight: 600;
+    margin-bottom: 30px;
+    position: absolute;
+    left: 0;
+    top: -50px;
+}
+.comment_show_left{
+    float: left;
+}
+.comment_show_left span{
+    font-size: 58px;
+    padding: 15px;
+    background: #c5c5c5;
+    color: white;
+    border-radius: 5px;
+}
+.comment_show_right{
+    margin-bottom: 15px;
+    margin-left: 100px;
+}
+.comment_show_right strong{
+    font-family: "Constantia", Times, serif;
+    font-size: 18px;
+}
+.comment_show_right p{
+    font-size: 14px;
+    font-family: "Comic Sans MS", Times, serif;
+    margin-top: 10px;
+}
+.comment_show_right span{
+    font-family: "Constantia", Times, serif;
+}
+.featured_bottom_uniq{
+    float: left;
+    position: relative;
+    top: -19px;
+    margin-right: 6px;
+}
+.uni_str{
+    font-family: "Constantia", Times, serif;
+    font-size: 18px;
+    display: block;
+    position: relative;
+    left: -116px;
+    top: -12px;
+}
+.pagiiiii ul li{
+    margin: 0px;
+}
+.featured_bottom_unique{
+    float: left;
+    position: relative;
+    top: -8px;
+    margin-right: 6px;
+}
+
+/*  Modal */
+
+.modall{
+    width: 50%;
+    margin: auto;
+}
+.modal_inn{
+}
+.modal_inn a{}
+.modal_inn img{}
+.detailss{}
+.detailss h3{
+    margin-left: 8px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.detailss strong{
+    display: block;
+    margin: 0px 0px 5px 20px;
+    color: orange;
+}
+.modal-footer a{
+    color: red!important;
+}
+.modal-footer_div{
+    float: left;
+    margin: auto;
+}
+.btn2:hover{
+    color: currentColor;
+    background: black;
+}
+.comment_1{
+    position: relative;
+}
+
+.display__{
+    position: absolute;
+    left: 0;
+    top: 12px;
+}
+.uni_p{
+    margin-bottom: 33px;
+}
+
+.uni_modal_1{
+
+}
+.uni_modal_2{
+
+}

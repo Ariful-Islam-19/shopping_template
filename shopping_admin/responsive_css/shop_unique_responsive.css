@@ -1,0 +1,42 @@
+
+@media(max-width:576px){
+
+    .shop-btn {
+        margin: auto;
+    }
+}
+@media(max-width:518px){
+
+    .comment_show_right p {
+        font-size: 12px;
+    }
+    .uni_str {
+        position: relative;
+         left: 0px; 
+        top: -12px;
+    }
+    
+}
+
+@media(max-width:500px){
+
+    .comment_show_right p {
+        font-size: 12px;
+    }
+    .uni_str {
+        position: relative;
+         left: -112px; 
+        top: -12px;
+    }
+    
+}
+
+@media(max-width:354px){
+
+    .display__ {
+        position: absolute;
+        left: 0;
+        top: 24px;
+    }
+    
+}

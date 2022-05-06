@@ -1,0 +1,61 @@
+@media(max-width:425px){
+
+    .box {
+        width: 300px;
+        
+    }
+    .username, .password {
+       
+        margin: 20px auto;
+        height: 50px;
+        text-align: center;
+        border: 2.5px solid cyan;
+        width: 210px;
+       
+    }
+    .submit {
+        
+        padding: 12px 45px;
+        margin: 1px 37px;
+        
+    }
+    
+@keyframes animate{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 47%;
+    }
+}
+
+    @keyframes box_animate{
+        0%{
+            top: -7px;
+            left: -7px;
+            box-shadow: 3px -3px 18px 24px green;
+        }
+        25%{
+            top: 345px;
+            left: -7px;
+            box-shadow: 3px -3px 18px 24px lime;
+        }
+        50%{
+            top: 345px;
+            left: 290px;
+            box-shadow: 3px -3px 18px 24px hotpink;
+        }
+        75%{
+            top: -7px;
+            left: 290px;
+            box-shadow: 3px -3px 18px 24px blue;
+        }
+        100%{
+            top: -7px;
+            left: -7px;
+            box-shadow: 3px -3px 18px 24px red;
+        }
+    
+    }
+    
+}
